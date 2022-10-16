@@ -11,3 +11,7 @@ All in ->  People's fear switched to greed.
 Self-affirming nature
 
 Truely seize the vision of what's unfolding
+
+https://electric-motor-s.herokuapp.com/
+
+>> heroku logs --tail
